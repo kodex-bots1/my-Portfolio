@@ -121,7 +121,7 @@ nav ul li a:hover {
   justify-content: center;
   align-items: flex-start;
   width: 40%;
-  height: 100vh;
+  height: auto;
   padding: 10% 0;
   background: rgba(88, 75, 158, 0.295);
   border: 2px solid rgba(42, 98, 252, 0.3);
@@ -152,7 +152,7 @@ nav ul li a:hover {
 
 .menubar ul li a:hover {
     content: '';
-    
+
 }
 @media screen and (max-width: 790px) {
   .hamburger {
