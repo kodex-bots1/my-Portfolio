@@ -75,3 +75,16 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 });
+
+
+
+
+// develope.config.js
+const Kodex = {
+  name: "Kodex",
+  role: "Full Stack Developer",
+  openToWork: true,
+  stack: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+  location: "Nigeria ",
+  diciplineLevel: "strict",
+};

@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #090c14;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.todo-app{
+    background: #090c14;
+    padding: 20px;
+    padding-right: 100px;
+
+    h2{
+        color: #1ed761;
+        font-size: 80px;
+}
+}
