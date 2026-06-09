@@ -290,11 +290,12 @@ nav a:hover::after{
     }
 }
 
-.foot2{
+.foot2 a{
     color: #333b53;
     font-size: x-large;
     cursor: pointer;
     gap: 10px;
+    text-decoration: none;
 }
 
 .foot3{
