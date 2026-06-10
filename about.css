@@ -455,7 +455,7 @@ nav a:hover::after{
     margin-bottom:40px;
 }
 
-.section-title span{
+.section-title h2{
     color:#00f5b0;
 }
 
@@ -987,7 +987,8 @@ nav a:hover::after{
     color:#fff;
     font-size:64px;
     font-weight:800;
-    margin-bottom:60px;
+    margin-bottom:35px;
+    margin-top: 80px;
 }
 
 .contact-box{

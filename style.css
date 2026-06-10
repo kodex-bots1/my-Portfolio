@@ -22,8 +22,8 @@ header{
     justify-content: space-between;
     align-items: center;
     z-index: 1000;
-    background: rgba(12, 15, 25, 0.8);
-    backdrop-filter: blur(10px);
+    background: rgba(12, 15, 25, 0.644);
+    backdrop-filter: blur(3px);
     border-bottom: 1px solid rgba(42, 252, 133, 0.1);
 }
 
